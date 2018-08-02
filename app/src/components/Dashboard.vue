@@ -49,6 +49,9 @@ export default {
 </script>
 
 <style scoped lang="scss">
+#leaflet-map {
+  width: 100vw;
+}
 #dashboard {
   display: flex;
   justify-content: center;
